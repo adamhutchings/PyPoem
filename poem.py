@@ -92,7 +92,8 @@ def print_poem():
 
 def anthology():
 	for i in range(25):
-		print_poem()
 		print('\n\n\n')
+		print_poem()
+		print('\n')
 
 anthology()
