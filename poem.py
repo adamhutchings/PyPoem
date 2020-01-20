@@ -6,7 +6,7 @@ import random
 import time
 
 nouns = [
-		'air', 'breath', 'cat', 'ear', 'ray', 'kiss'
+		'air', 'breath', 'cat', 'ear', 'ray', 'kiss',
 		'cheek', 'dawn', 'dusk', 'night', 'day', 'sun',
 		'moon', 'love', 'hurt', 'heart', 'sleep','wake',
 		'life', 'death', 'birth', 'mind', 'eye', 'sky',
